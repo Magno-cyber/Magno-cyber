@@ -13,7 +13,7 @@ Além da programação, atuo como conselheiro e instrutor de jovens, aplicando h
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/[Magno-cyber]">
+  <a href="https://github.com/Magno-cyber">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/[Carlos Magno]">
