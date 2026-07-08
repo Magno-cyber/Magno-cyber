@@ -59,15 +59,15 @@ Além da programação, atuo como conselheiro e instrutor de jovens, aplicando h
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_GITHUB]&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_GITHUB]&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=[Magno-cyber]&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Magno-cyber]&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🚀 Filosofia
 
-> *"Um bom software é construído como um bom acampamento: exige bases sólidas, organização clara e um excelente trabalho em equipe."*
+> *"Sempre buscando o conhecimento técnico e a resiliência prática para construir um impacto positivo e real na vida das pessoas, mantendo-se sempre conectado ao essencial."*
 
 ---
 
